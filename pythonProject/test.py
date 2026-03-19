@@ -10,12 +10,12 @@ print("/______\ ")
 # printing some message
 name = "Buzdar"
 city = "Karachi"
-print("There is a man his name was " + name + " .")
-print("He has been living in " + city + ".")
+print("There is a man, his name is " + name + " .")
+print("He has been living in " + city + "since 2015.")
 name = "baloch"
 city = "lahore"
 print("He really like his name " + name + ".")
-print("He love to the weather of " + city + " and every time he is enjoying.")
+print("He love to the weather of " + city + " and every time he has been enjoying there.")
 
 # data type
 character_name = "any text. for example I am a male"      # represents string data type
@@ -27,9 +27,8 @@ is_female = False   # boolean
 print("University of Eastern Finland Joensuu Finland")
 print("University of Eastern Finland\Joensuu Finland")
 print("University of Eastern Finland\nJoensuu Finland")
-print("University of Eastern Finland\"Joensuu Finland")
 # concatination
-print("University of Eastern Finland Joensuu Finland\n" + "is a Public Sector University in Finland")
+print("University of Eastern Finland Joensuu Finland.\n" + "It is a Public Sector University in Finland")
 
 # use function in string to modify and update the sting in a variable
 paragraph = "University of Eastern Finland Joensuu Finland"
