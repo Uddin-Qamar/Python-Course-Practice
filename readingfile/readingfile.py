@@ -9,7 +9,7 @@ file_1.close()
 """
 file_2 = open("one.txt", "a")
 file_2.write("\n Now the questions is looking wonderfull.")
-file_2.write("\n The questions clarifiy the answers of the attandee. ")
+file_2.write("\n The questions clarifiy the answers of the attande's. ")
 file_2.close()
 """
 # write a file in python *(it used to write a new file or overwrite the existing file)
