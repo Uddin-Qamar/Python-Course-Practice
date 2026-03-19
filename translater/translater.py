@@ -1,4 +1,4 @@
-# the translater used to convert the the space of wovel into s
+# the translater function convert the vowel into s 
 
 def transalater (pharase):
   translation = ""
